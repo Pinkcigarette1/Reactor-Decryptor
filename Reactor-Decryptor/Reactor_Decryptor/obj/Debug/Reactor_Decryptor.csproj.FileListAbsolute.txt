@@ -1,0 +1,4 @@
+C:\Users\mammad\Desktop\github\rct done\rct\rct\Reactor_Decryptor\obj\Debug\Reactor_Decryptor.csprojAssemblyReference.cache
+C:\Users\mammad\Desktop\github\rct done\rct\rct\Reactor_Decryptor\obj\Debug\Reactor_Decryptor.ErrorMessageShow.resources
+C:\Users\mammad\Desktop\github\rct done\rct\rct\Reactor_Decryptor\obj\Debug\Reactor_Decryptor.MainForm.resources
+C:\Users\mammad\Desktop\github\rct done\rct\rct\Reactor_Decryptor\obj\Debug\Reactor_Decryptor.csproj.GenerateResource.cache
